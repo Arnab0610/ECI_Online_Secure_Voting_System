@@ -1,0 +1,17 @@
+Time: 2026-09-11 08:46:45 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-11 08:48:48 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-11 15:39:26 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-11 15:39:26 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-11 15:42:21 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-11 15:42:21 | Mobile: 8509874613 | Response: {"status_code":998,"message":"Route is blocked in your account, use DLT SMS route."} | Error: 
+Time: 2026-09-12 08:02:16 | Mobile: 8509874613 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-12 08:20:46 | Mobile: 8509874613 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-12 08:57:19 | Mobile: 8509874613 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-12 08:59:07 | Mobile: 8509874613 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-28 07:54:29 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 06:29:40 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 12:11:52 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 12:11:52 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 12:37:38 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 12:37:39 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
+Time: 2026-09-29 17:30:16 | Mobile: 8768744627 | Response: {"return":false,"status_code":414,"message":"IP is blacklisted from Dev API section"} | Error: 
